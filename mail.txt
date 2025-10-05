@@ -1,0 +1,25 @@
+
+
+Subject: Product Growth Insights & Recommendations – Mock Data Review
+
+Hi Sir/Madam,
+
+I'm Rishi, a final year Btech undergrad at DTU. I’ve wrapped up the analysis of our simulated product datasets and wanted to highlight the key takeaways:
+
+Key Product Insights:-
+- Engagement remains healthy: latest DAU is 11 with a 7-day average near 9 and steady growth over the past month (+18% vs. prior 30-day window). Weekly feature usage is led by Dashboard, Notifications, and Automation, each with ~80% user adoption.
+- Cohort retention is thin: Month+1 retention averages just 1.3%, with most cohorts tapering off after the first month.
+- Feedback volume is trending upward, and the sentiment mix is predominantly positive (61% positive vs. 17% negative), with praise centered on automation gains and constructive notes about notification overload.
+
+Risks / Blockers:-
+- A 72% drop from account creation to first transaction shows the onboarding-to-value gap is still our highest-leverage bottleneck.
+- Low early retention indicates users don’t consistently experience core value after sign-up, increasing acquisition burn.
+- Notification fatigue surfaces in qualitative feedback; if unaddressed, it could erode our positive sentiment lead and hurt engagement.
+
+Strategic Recommendations & Next Steps:-
+1. First-transaction activation: Ship the guided checklist experiment to reduce post-signup confusion. Success = +10% relative lift in first transactions within 48 hours; secondary metrics include time-to-value and support ticket volume.
+2. Notification tuning: Prioritize a sprint on batching/muting options and sentiment tracking. Watch negative sentiment share to ensure it trends below 10%.
+3. Retention-focused onboarding: Fold identity/payment setup into registration, add contextual nudges, and monitor Month+1 retention plus repeat session rate for uplift.
+
+Thanks & Regards
+Rishi
