@@ -1,0 +1,601 @@
+user_id,signup_date,channel,region
+U00001,2024-10-16,Organic,North America
+U00002,2025-01-29,Referral,Europe
+U00003,2023-08-17,Paid Search,Africa
+U00004,2023-04-15,Affiliate,Africa
+U00005,2025-07-02,Email,North America
+U00006,2024-08-27,Social,North America
+U00007,2023-01-31,Organic,Europe
+U00008,2023-08-27,Email,Middle East
+U00009,2023-01-28,Email,Europe
+U00010,2025-01-03,Affiliate,Africa
+U00011,2024-07-12,Social,Europe
+U00012,2024-04-04,Email,Latin America
+U00013,2025-04-08,Organic,Europe
+U00014,2024-12-15,Social,Latin America
+U00015,2023-10-12,Paid Search,Europe
+U00016,2025-09-07,Referral,North America
+U00017,2023-04-05,Social,North America
+U00018,2024-01-03,Referral,Middle East
+U00019,2023-09-28,Organic,Africa
+U00020,2024-04-15,Email,North America
+U00021,2025-09-23,Social,North America
+U00022,2024-07-19,Referral,Africa
+U00023,2024-09-25,Referral,Middle East
+U00024,2023-07-16,Affiliate,North America
+U00025,2023-02-16,Affiliate,Europe
+U00026,2025-03-02,Referral,North America
+U00027,2025-05-25,Paid Search,North America
+U00028,2024-01-25,Referral,Asia Pacific
+U00029,2024-10-12,Referral,Europe
+U00030,2024-01-15,Referral,Europe
+U00031,2024-11-17,Referral,Africa
+U00032,2025-08-17,Affiliate,Africa
+U00033,2023-03-15,Email,Africa
+U00034,2023-06-25,Email,Africa
+U00035,2023-09-08,Paid Search,Asia Pacific
+U00036,2024-01-24,Referral,Africa
+U00037,2024-12-05,Email,Europe
+U00038,2024-12-02,Referral,North America
+U00039,2023-08-23,Organic,Latin America
+U00040,2024-02-15,Referral,North America
+U00041,2023-08-05,Email,Africa
+U00042,2023-11-19,Paid Search,Africa
+U00043,2024-05-26,Social,Africa
+U00044,2024-04-14,Paid Search,Latin America
+U00045,2023-05-23,Paid Search,Africa
+U00046,2024-07-28,Email,Latin America
+U00047,2025-02-03,Email,Asia Pacific
+U00048,2025-07-08,Email,Asia Pacific
+U00049,2024-01-06,Paid Search,Europe
+U00050,2024-06-05,Social,North America
+U00051,2025-02-12,Organic,North America
+U00052,2023-06-06,Affiliate,Europe
+U00053,2025-03-22,Affiliate,Asia Pacific
+U00054,2024-09-02,Organic,Asia Pacific
+U00055,2024-01-26,Email,Asia Pacific
+U00056,2024-06-25,Referral,Middle East
+U00057,2025-05-31,Organic,Africa
+U00058,2025-01-08,Organic,Africa
+U00059,2025-06-25,Email,Latin America
+U00060,2025-02-26,Affiliate,Latin America
+U00061,2023-04-25,Referral,Asia Pacific
+U00062,2023-06-11,Social,North America
+U00063,2025-09-03,Affiliate,Africa
+U00064,2023-09-27,Email,Europe
+U00065,2024-06-03,Organic,Africa
+U00066,2023-11-02,Affiliate,Middle East
+U00067,2024-09-15,Paid Search,Europe
+U00068,2024-01-18,Paid Search,Middle East
+U00069,2025-09-03,Email,North America
+U00070,2024-09-05,Referral,Asia Pacific
+U00071,2023-01-20,Organic,Latin America
+U00072,2025-06-18,Referral,Europe
+U00073,2023-03-01,Paid Search,Middle East
+U00074,2025-08-27,Organic,North America
+U00075,2025-01-19,Social,North America
+U00076,2025-09-28,Email,Europe
+U00077,2023-05-12,Affiliate,Asia Pacific
+U00078,2025-08-27,Email,Europe
+U00079,2023-09-29,Email,Middle East
+U00080,2024-03-09,Paid Search,Middle East
+U00081,2025-02-12,Affiliate,Africa
+U00082,2023-07-25,Affiliate,Latin America
+U00083,2024-02-13,Affiliate,Africa
+U00084,2024-01-18,Social,Middle East
+U00085,2024-04-07,Organic,Europe
+U00086,2023-08-19,Organic,Latin America
+U00087,2023-01-22,Email,Middle East
+U00088,2023-08-24,Email,Europe
+U00089,2023-01-08,Organic,Africa
+U00090,2024-10-08,Organic,Europe
+U00091,2023-03-11,Organic,Latin America
+U00092,2023-03-14,Email,Europe
+U00093,2023-10-13,Affiliate,Asia Pacific
+U00094,2023-08-08,Email,Europe
+U00095,2025-01-10,Email,Middle East
+U00096,2024-04-29,Paid Search,Asia Pacific
+U00097,2025-04-06,Social,Europe
+U00098,2023-04-07,Organic,Africa
+U00099,2024-03-17,Referral,Asia Pacific
+U00100,2024-02-25,Social,Africa
+U00101,2023-02-25,Affiliate,Africa
+U00102,2024-10-23,Organic,North America
+U00103,2024-02-17,Affiliate,Latin America
+U00104,2025-03-30,Organic,Europe
+U00105,2023-07-16,Paid Search,Middle East
+U00106,2024-04-04,Paid Search,Asia Pacific
+U00107,2023-07-07,Referral,Asia Pacific
+U00108,2023-09-13,Organic,Asia Pacific
+U00109,2025-04-07,Email,North America
+U00110,2023-02-21,Affiliate,Middle East
+U00111,2025-05-06,Organic,North America
+U00112,2025-08-06,Paid Search,Europe
+U00113,2024-02-21,Social,Asia Pacific
+U00114,2023-08-07,Social,North America
+U00115,2023-06-18,Social,North America
+U00116,2024-02-04,Referral,Asia Pacific
+U00117,2023-10-20,Social,Africa
+U00118,2025-09-07,Affiliate,Middle East
+U00119,2024-11-08,Affiliate,Asia Pacific
+U00120,2023-06-08,Paid Search,Latin America
+U00121,2023-08-11,Organic,Middle East
+U00122,2025-01-23,Email,North America
+U00123,2025-02-04,Referral,North America
+U00124,2023-02-21,Email,Asia Pacific
+U00125,2024-05-29,Email,Europe
+U00126,2023-02-28,Email,North America
+U00127,2025-05-21,Paid Search,North America
+U00128,2024-09-01,Organic,Africa
+U00129,2025-06-01,Paid Search,Asia Pacific
+U00130,2023-05-03,Email,Europe
+U00131,2024-08-15,Email,North America
+U00132,2024-09-26,Organic,Asia Pacific
+U00133,2024-11-04,Email,Middle East
+U00134,2024-06-19,Referral,Latin America
+U00135,2023-07-29,Affiliate,Africa
+U00136,2023-11-18,Paid Search,Latin America
+U00137,2024-02-10,Paid Search,Africa
+U00138,2024-10-22,Referral,Asia Pacific
+U00139,2023-11-20,Organic,North America
+U00140,2024-04-14,Email,Middle East
+U00141,2023-04-13,Organic,Middle East
+U00142,2023-08-07,Email,Latin America
+U00143,2023-05-16,Referral,North America
+U00144,2025-06-19,Paid Search,Latin America
+U00145,2023-10-19,Paid Search,Asia Pacific
+U00146,2025-05-03,Email,Africa
+U00147,2023-11-06,Email,Africa
+U00148,2024-06-25,Organic,Africa
+U00149,2025-04-16,Email,Latin America
+U00150,2025-08-12,Affiliate,North America
+U00151,2025-08-19,Paid Search,Latin America
+U00152,2023-04-29,Organic,Africa
+U00153,2024-07-20,Paid Search,Latin America
+U00154,2023-10-16,Email,Europe
+U00155,2025-01-04,Referral,Europe
+U00156,2024-12-04,Affiliate,Latin America
+U00157,2024-06-01,Social,Latin America
+U00158,2025-07-16,Organic,North America
+U00159,2024-10-11,Social,Latin America
+U00160,2023-02-15,Organic,Latin America
+U00161,2025-02-28,Paid Search,Africa
+U00162,2023-09-26,Paid Search,Africa
+U00163,2024-03-28,Email,Africa
+U00164,2024-03-13,Email,North America
+U00165,2023-04-25,Organic,Africa
+U00166,2025-07-14,Paid Search,Middle East
+U00167,2023-02-06,Referral,Middle East
+U00168,2024-07-19,Paid Search,Asia Pacific
+U00169,2023-05-11,Organic,Latin America
+U00170,2024-01-09,Organic,Latin America
+U00171,2023-08-04,Affiliate,Europe
+U00172,2024-11-13,Organic,Latin America
+U00173,2025-03-09,Email,Asia Pacific
+U00174,2025-09-24,Email,Africa
+U00175,2023-06-08,Paid Search,Europe
+U00176,2025-09-26,Paid Search,Asia Pacific
+U00177,2023-01-26,Paid Search,Africa
+U00178,2025-08-04,Referral,Asia Pacific
+U00179,2025-04-01,Affiliate,Africa
+U00180,2025-04-10,Paid Search,Latin America
+U00181,2023-06-13,Affiliate,North America
+U00182,2024-01-27,Organic,Asia Pacific
+U00183,2023-08-16,Paid Search,Asia Pacific
+U00184,2023-12-25,Referral,Europe
+U00185,2023-08-17,Organic,Africa
+U00186,2023-07-17,Social,Latin America
+U00187,2023-10-13,Organic,Latin America
+U00188,2023-12-26,Affiliate,Middle East
+U00189,2024-02-14,Affiliate,Middle East
+U00190,2023-12-06,Organic,North America
+U00191,2025-06-17,Referral,Europe
+U00192,2024-08-17,Referral,North America
+U00193,2023-04-22,Email,Asia Pacific
+U00194,2023-12-20,Affiliate,Latin America
+U00195,2024-03-22,Email,Middle East
+U00196,2023-04-29,Social,Middle East
+U00197,2023-07-14,Referral,North America
+U00198,2024-12-26,Social,North America
+U00199,2024-06-16,Email,Africa
+U00200,2025-01-06,Affiliate,Africa
+U00201,2024-11-17,Paid Search,Latin America
+U00202,2024-03-17,Organic,Africa
+U00203,2025-07-31,Referral,Middle East
+U00204,2023-11-18,Affiliate,North America
+U00205,2025-01-07,Referral,Middle East
+U00206,2023-11-13,Affiliate,Asia Pacific
+U00207,2023-12-01,Social,Africa
+U00208,2023-10-30,Email,Europe
+U00209,2023-07-16,Social,Africa
+U00210,2025-08-20,Social,Africa
+U00211,2025-02-05,Paid Search,Middle East
+U00212,2024-08-05,Referral,Asia Pacific
+U00213,2024-07-15,Organic,Latin America
+U00214,2023-10-21,Paid Search,Asia Pacific
+U00215,2025-03-15,Email,Middle East
+U00216,2024-11-01,Referral,Asia Pacific
+U00217,2024-03-28,Social,Africa
+U00218,2023-08-07,Email,Asia Pacific
+U00219,2025-03-23,Affiliate,Europe
+U00220,2024-11-05,Organic,Latin America
+U00221,2024-06-11,Affiliate,Africa
+U00222,2024-09-26,Referral,North America
+U00223,2025-04-18,Paid Search,Africa
+U00224,2023-11-14,Paid Search,Europe
+U00225,2023-05-31,Organic,North America
+U00226,2023-09-08,Social,Middle East
+U00227,2025-05-20,Organic,Asia Pacific
+U00228,2024-02-29,Affiliate,Middle East
+U00229,2023-07-19,Affiliate,Africa
+U00230,2024-01-29,Social,Asia Pacific
+U00231,2023-09-07,Paid Search,Africa
+U00232,2024-12-05,Organic,North America
+U00233,2025-03-08,Social,Europe
+U00234,2023-06-30,Affiliate,Middle East
+U00235,2024-04-20,Organic,Middle East
+U00236,2023-09-13,Organic,Asia Pacific
+U00237,2023-05-17,Social,Africa
+U00238,2024-06-27,Email,Middle East
+U00239,2023-11-21,Social,Middle East
+U00240,2025-04-14,Affiliate,Middle East
+U00241,2024-03-12,Email,Asia Pacific
+U00242,2025-07-07,Paid Search,Africa
+U00243,2025-06-01,Social,Asia Pacific
+U00244,2023-09-23,Paid Search,Africa
+U00245,2023-10-11,Email,Asia Pacific
+U00246,2024-10-03,Paid Search,Latin America
+U00247,2024-03-26,Organic,Africa
+U00248,2023-10-20,Paid Search,Latin America
+U00249,2023-12-10,Referral,Middle East
+U00250,2023-03-24,Paid Search,Europe
+U00251,2023-08-25,Social,Africa
+U00252,2023-06-06,Affiliate,Europe
+U00253,2023-03-07,Social,Asia Pacific
+U00254,2023-12-05,Email,Asia Pacific
+U00255,2024-03-01,Organic,Europe
+U00256,2025-05-02,Social,Asia Pacific
+U00257,2025-07-15,Email,Africa
+U00258,2023-01-21,Email,Asia Pacific
+U00259,2024-05-03,Organic,Latin America
+U00260,2023-11-02,Social,Asia Pacific
+U00261,2024-07-05,Affiliate,Africa
+U00262,2024-07-13,Email,Europe
+U00263,2024-05-14,Paid Search,Latin America
+U00264,2024-03-22,Social,North America
+U00265,2024-02-03,Referral,Africa
+U00266,2024-11-26,Social,Africa
+U00267,2023-06-19,Social,Europe
+U00268,2024-09-29,Email,North America
+U00269,2025-07-17,Social,Middle East
+U00270,2024-07-31,Affiliate,North America
+U00271,2023-03-27,Affiliate,Asia Pacific
+U00272,2023-05-19,Social,Europe
+U00273,2023-02-21,Referral,Asia Pacific
+U00274,2023-12-02,Paid Search,Asia Pacific
+U00275,2023-12-01,Referral,Asia Pacific
+U00276,2023-10-12,Social,Latin America
+U00277,2025-05-04,Organic,Asia Pacific
+U00278,2023-01-20,Affiliate,Middle East
+U00279,2023-02-23,Referral,Europe
+U00280,2024-10-27,Organic,Africa
+U00281,2023-02-11,Organic,Europe
+U00282,2023-07-24,Organic,Middle East
+U00283,2023-06-06,Paid Search,Europe
+U00284,2024-04-29,Affiliate,North America
+U00285,2024-07-31,Paid Search,Asia Pacific
+U00286,2024-12-17,Referral,Latin America
+U00287,2023-06-21,Email,Middle East
+U00288,2025-09-13,Affiliate,Africa
+U00289,2023-04-28,Paid Search,Latin America
+U00290,2023-04-21,Email,North America
+U00291,2025-08-09,Referral,Middle East
+U00292,2024-11-24,Social,Asia Pacific
+U00293,2025-08-22,Affiliate,Europe
+U00294,2023-03-19,Email,Africa
+U00295,2025-04-30,Affiliate,Europe
+U00296,2023-04-15,Affiliate,Latin America
+U00297,2025-05-20,Affiliate,Middle East
+U00298,2025-04-04,Organic,Middle East
+U00299,2025-03-12,Organic,Latin America
+U00300,2024-06-29,Social,Africa
+U00301,2024-01-15,Organic,Middle East
+U00302,2024-10-25,Referral,North America
+U00303,2025-05-19,Social,Asia Pacific
+U00304,2023-04-19,Social,Latin America
+U00305,2024-10-12,Social,Africa
+U00306,2023-06-06,Social,Europe
+U00307,2025-01-21,Email,Africa
+U00308,2023-10-04,Email,Middle East
+U00309,2025-03-04,Social,Asia Pacific
+U00310,2024-03-22,Affiliate,Middle East
+U00311,2023-10-02,Referral,Europe
+U00312,2025-04-30,Organic,Latin America
+U00313,2025-06-21,Social,Europe
+U00314,2025-02-07,Social,Middle East
+U00315,2024-09-16,Affiliate,Asia Pacific
+U00316,2023-12-11,Organic,Asia Pacific
+U00317,2025-05-21,Referral,Europe
+U00318,2024-05-14,Paid Search,Latin America
+U00319,2025-03-27,Referral,Latin America
+U00320,2023-10-14,Email,Africa
+U00321,2025-06-20,Referral,Middle East
+U00322,2023-01-11,Email,Europe
+U00323,2023-03-29,Paid Search,Africa
+U00324,2024-02-21,Social,Middle East
+U00325,2025-02-15,Paid Search,Africa
+U00326,2024-05-02,Affiliate,Africa
+U00327,2024-05-17,Social,North America
+U00328,2023-04-06,Referral,Europe
+U00329,2024-02-19,Affiliate,Europe
+U00330,2023-11-10,Affiliate,Middle East
+U00331,2024-01-13,Social,Middle East
+U00332,2024-06-27,Referral,Asia Pacific
+U00333,2025-02-02,Email,Latin America
+U00334,2023-12-27,Affiliate,Asia Pacific
+U00335,2023-10-05,Referral,Latin America
+U00336,2023-08-25,Organic,Africa
+U00337,2023-07-17,Referral,North America
+U00338,2025-01-30,Email,Africa
+U00339,2023-07-09,Paid Search,Europe
+U00340,2025-01-26,Social,Latin America
+U00341,2025-01-11,Email,Middle East
+U00342,2024-09-03,Referral,North America
+U00343,2025-05-02,Paid Search,Latin America
+U00344,2023-08-21,Referral,Europe
+U00345,2023-11-06,Organic,Africa
+U00346,2024-06-30,Paid Search,Latin America
+U00347,2023-02-16,Organic,Middle East
+U00348,2023-10-27,Affiliate,Europe
+U00349,2024-10-15,Social,North America
+U00350,2025-06-12,Organic,Middle East
+U00351,2023-10-19,Social,Asia Pacific
+U00352,2024-03-27,Referral,Europe
+U00353,2025-09-15,Organic,Latin America
+U00354,2025-08-21,Social,North America
+U00355,2025-04-21,Organic,Asia Pacific
+U00356,2024-05-18,Organic,Middle East
+U00357,2024-10-06,Affiliate,North America
+U00358,2023-06-05,Paid Search,Middle East
+U00359,2025-08-29,Referral,North America
+U00360,2023-09-12,Organic,Middle East
+U00361,2025-02-21,Social,Middle East
+U00362,2024-09-02,Email,Europe
+U00363,2025-03-05,Email,Asia Pacific
+U00364,2024-04-06,Social,Latin America
+U00365,2025-05-30,Email,Asia Pacific
+U00366,2023-11-09,Email,Middle East
+U00367,2023-03-03,Email,Africa
+U00368,2023-04-12,Paid Search,Africa
+U00369,2023-08-05,Referral,Africa
+U00370,2023-03-25,Paid Search,Europe
+U00371,2023-06-27,Email,North America
+U00372,2023-06-10,Organic,Asia Pacific
+U00373,2024-04-06,Affiliate,Middle East
+U00374,2024-04-26,Referral,North America
+U00375,2023-08-26,Referral,Africa
+U00376,2023-10-17,Affiliate,Asia Pacific
+U00377,2023-03-14,Affiliate,Europe
+U00378,2025-08-04,Referral,Africa
+U00379,2024-08-26,Affiliate,Europe
+U00380,2024-03-11,Organic,Middle East
+U00381,2023-08-19,Affiliate,Europe
+U00382,2025-07-19,Referral,Europe
+U00383,2023-03-15,Organic,Europe
+U00384,2025-03-22,Referral,Middle East
+U00385,2025-02-05,Email,Latin America
+U00386,2024-03-25,Organic,Asia Pacific
+U00387,2024-12-06,Referral,Africa
+U00388,2024-02-17,Referral,Middle East
+U00389,2024-07-06,Social,Asia Pacific
+U00390,2023-03-24,Email,North America
+U00391,2025-06-29,Social,Africa
+U00392,2023-11-27,Email,Latin America
+U00393,2023-01-27,Organic,Europe
+U00394,2025-09-11,Affiliate,Middle East
+U00395,2024-08-24,Organic,Africa
+U00396,2025-04-21,Referral,Middle East
+U00397,2023-02-11,Paid Search,Asia Pacific
+U00398,2024-06-15,Affiliate,Asia Pacific
+U00399,2025-07-27,Referral,Europe
+U00400,2024-08-22,Social,Africa
+U00401,2025-04-13,Social,North America
+U00402,2024-04-26,Referral,Asia Pacific
+U00403,2023-12-08,Referral,Africa
+U00404,2023-04-18,Paid Search,Latin America
+U00405,2024-02-26,Affiliate,Asia Pacific
+U00406,2023-10-23,Affiliate,Asia Pacific
+U00407,2025-04-13,Email,North America
+U00408,2024-04-10,Organic,Latin America
+U00409,2023-09-16,Referral,North America
+U00410,2025-09-20,Social,Middle East
+U00411,2025-04-24,Organic,Africa
+U00412,2025-06-09,Email,Asia Pacific
+U00413,2024-02-28,Organic,Europe
+U00414,2024-06-14,Referral,Middle East
+U00415,2025-02-13,Social,Africa
+U00416,2024-03-28,Organic,Europe
+U00417,2023-10-01,Email,Europe
+U00418,2025-08-07,Referral,Asia Pacific
+U00419,2025-06-20,Affiliate,Asia Pacific
+U00420,2023-05-05,Organic,Africa
+U00421,2024-09-15,Paid Search,Africa
+U00422,2023-06-12,Referral,Middle East
+U00423,2023-01-15,Email,Asia Pacific
+U00424,2023-04-06,Paid Search,North America
+U00425,2024-04-17,Organic,Africa
+U00426,2025-05-02,Paid Search,Asia Pacific
+U00427,2025-08-13,Affiliate,Latin America
+U00428,2024-06-05,Affiliate,Latin America
+U00429,2024-03-01,Social,Asia Pacific
+U00430,2023-09-07,Social,Middle East
+U00431,2023-05-29,Social,Europe
+U00432,2025-08-01,Email,Middle East
+U00433,2025-02-03,Paid Search,North America
+U00434,2023-10-10,Social,Latin America
+U00435,2025-08-14,Email,Latin America
+U00436,2025-04-20,Organic,Latin America
+U00437,2025-01-13,Referral,Middle East
+U00438,2024-08-16,Affiliate,Asia Pacific
+U00439,2025-06-05,Paid Search,Asia Pacific
+U00440,2024-07-05,Social,Latin America
+U00441,2023-12-07,Email,Middle East
+U00442,2024-01-22,Social,Latin America
+U00443,2025-06-09,Paid Search,Africa
+U00444,2023-09-02,Email,Asia Pacific
+U00445,2023-08-28,Social,North America
+U00446,2023-11-22,Affiliate,Asia Pacific
+U00447,2024-12-23,Social,Asia Pacific
+U00448,2024-11-10,Affiliate,Europe
+U00449,2024-05-22,Organic,Europe
+U00450,2024-05-29,Email,Latin America
+U00451,2025-06-09,Organic,Asia Pacific
+U00452,2023-04-13,Email,Asia Pacific
+U00453,2023-01-16,Affiliate,Europe
+U00454,2024-02-24,Affiliate,Europe
+U00455,2023-03-18,Social,Latin America
+U00456,2023-12-13,Email,Africa
+U00457,2024-02-12,Affiliate,North America
+U00458,2025-05-22,Referral,Africa
+U00459,2025-05-29,Email,Asia Pacific
+U00460,2025-09-04,Referral,Africa
+U00461,2025-01-05,Social,Middle East
+U00462,2023-02-06,Email,North America
+U00463,2023-08-29,Affiliate,Africa
+U00464,2025-08-01,Referral,Europe
+U00465,2025-02-03,Organic,Asia Pacific
+U00466,2025-09-28,Organic,Africa
+U00467,2024-12-21,Organic,Asia Pacific
+U00468,2023-06-20,Affiliate,Latin America
+U00469,2025-07-14,Organic,North America
+U00470,2023-11-29,Organic,Latin America
+U00471,2024-01-03,Referral,Asia Pacific
+U00472,2023-05-30,Paid Search,Middle East
+U00473,2024-02-26,Email,Africa
+U00474,2025-03-22,Paid Search,Europe
+U00475,2023-06-29,Organic,Middle East
+U00476,2025-06-10,Social,Middle East
+U00477,2024-11-30,Paid Search,Asia Pacific
+U00478,2025-07-23,Email,Europe
+U00479,2023-08-26,Social,Africa
+U00480,2023-09-18,Social,Latin America
+U00481,2024-11-13,Organic,Asia Pacific
+U00482,2025-07-11,Referral,Africa
+U00483,2024-07-13,Paid Search,North America
+U00484,2024-03-28,Referral,Middle East
+U00485,2023-11-03,Affiliate,Asia Pacific
+U00486,2024-12-07,Referral,Asia Pacific
+U00487,2025-05-15,Referral,Europe
+U00488,2024-01-29,Social,North America
+U00489,2023-08-31,Social,Middle East
+U00490,2024-01-03,Email,Latin America
+U00491,2024-12-17,Referral,North America
+U00492,2025-09-28,Affiliate,Asia Pacific
+U00493,2023-10-09,Organic,Middle East
+U00494,2025-06-04,Affiliate,Africa
+U00495,2025-09-23,Organic,Middle East
+U00496,2025-02-02,Social,Latin America
+U00497,2025-03-05,Paid Search,Middle East
+U00498,2025-04-01,Referral,Europe
+U00499,2024-10-13,Paid Search,Middle East
+U00500,2023-09-14,Affiliate,Africa
+U00501,2025-02-24,Affiliate,Africa
+U00502,2025-05-08,Paid Search,Africa
+U00503,2023-04-10,Affiliate,Africa
+U00504,2023-02-10,Referral,Asia Pacific
+U00505,2023-02-04,Email,Latin America
+U00506,2025-01-19,Paid Search,North America
+U00507,2025-07-20,Referral,Latin America
+U00508,2025-02-04,Social,Europe
+U00509,2023-07-25,Paid Search,Middle East
+U00510,2025-06-16,Referral,Middle East
+U00511,2024-05-28,Referral,Europe
+U00512,2023-09-21,Social,Latin America
+U00513,2025-02-03,Referral,North America
+U00514,2024-04-24,Organic,Europe
+U00515,2025-02-11,Paid Search,Africa
+U00516,2025-01-11,Affiliate,Asia Pacific
+U00517,2025-09-17,Email,Latin America
+U00518,2023-04-03,Social,North America
+U00519,2023-09-28,Email,North America
+U00520,2024-04-10,Referral,Africa
+U00521,2025-02-05,Affiliate,Latin America
+U00522,2024-08-21,Social,Africa
+U00523,2025-08-20,Referral,North America
+U00524,2024-11-22,Paid Search,Asia Pacific
+U00525,2023-01-26,Email,Middle East
+U00526,2023-12-02,Email,Europe
+U00527,2024-10-25,Organic,Africa
+U00528,2025-04-23,Social,Africa
+U00529,2023-11-06,Affiliate,Asia Pacific
+U00530,2023-04-30,Paid Search,North America
+U00531,2025-08-26,Organic,Latin America
+U00532,2024-05-19,Organic,North America
+U00533,2023-08-29,Email,Europe
+U00534,2024-02-02,Social,Latin America
+U00535,2024-11-17,Affiliate,Africa
+U00536,2025-08-26,Email,Asia Pacific
+U00537,2024-08-24,Affiliate,Africa
+U00538,2023-06-08,Social,Africa
+U00539,2023-04-12,Social,Middle East
+U00540,2024-02-22,Referral,North America
+U00541,2024-12-07,Referral,Europe
+U00542,2024-03-30,Social,Europe
+U00543,2025-05-25,Referral,North America
+U00544,2024-12-03,Referral,Middle East
+U00545,2025-07-12,Affiliate,Latin America
+U00546,2023-03-04,Social,Latin America
+U00547,2023-07-14,Organic,Asia Pacific
+U00548,2023-04-04,Affiliate,Europe
+U00549,2024-10-19,Affiliate,Middle East
+U00550,2025-09-21,Organic,North America
+U00551,2025-03-16,Referral,Europe
+U00552,2023-05-09,Email,Europe
+U00553,2023-03-12,Email,Europe
+U00554,2024-08-23,Paid Search,Europe
+U00555,2023-12-03,Paid Search,Middle East
+U00556,2023-01-03,Referral,Europe
+U00557,2023-05-14,Email,Latin America
+U00558,2025-03-28,Paid Search,North America
+U00559,2024-11-07,Organic,Europe
+U00560,2023-01-16,Referral,Europe
+U00561,2024-08-25,Referral,North America
+U00562,2023-06-28,Referral,North America
+U00563,2023-05-10,Affiliate,Asia Pacific
+U00564,2024-06-22,Organic,Africa
+U00565,2023-03-07,Social,Asia Pacific
+U00566,2025-03-07,Referral,Middle East
+U00567,2024-08-30,Organic,Asia Pacific
+U00568,2024-05-30,Paid Search,Middle East
+U00569,2023-02-14,Affiliate,Africa
+U00570,2024-06-17,Referral,Asia Pacific
+U00571,2024-10-20,Organic,North America
+U00572,2024-05-05,Social,Asia Pacific
+U00573,2024-12-03,Organic,Asia Pacific
+U00574,2024-12-30,Social,North America
+U00575,2025-07-09,Organic,Latin America
+U00576,2024-09-14,Paid Search,North America
+U00577,2023-05-10,Referral,Middle East
+U00578,2024-10-10,Email,Middle East
+U00579,2024-12-30,Referral,Asia Pacific
+U00580,2024-09-03,Email,Latin America
+U00581,2024-04-09,Email,Middle East
+U00582,2024-03-16,Organic,Africa
+U00583,2023-04-28,Affiliate,Africa
+U00584,2025-06-17,Email,Africa
+U00585,2025-06-05,Paid Search,Asia Pacific
+U00586,2024-04-07,Paid Search,Asia Pacific
+U00587,2023-12-14,Social,Asia Pacific
+U00588,2024-03-01,Affiliate,North America
+U00589,2023-11-17,Social,Latin America
+U00590,2024-11-12,Referral,Latin America
+U00591,2025-09-03,Paid Search,Africa
+U00592,2025-08-03,Social,North America
+U00593,2023-04-04,Organic,North America
+U00594,2024-03-18,Organic,Africa
+U00595,2025-01-26,Referral,Europe
+U00596,2024-07-23,Organic,Middle East
+U00597,2025-09-06,Email,Middle East
+U00598,2023-12-04,Affiliate,North America
+U00599,2024-02-25,Referral,Africa
+U00600,2025-08-21,Social,Africa
